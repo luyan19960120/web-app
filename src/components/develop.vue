@@ -3,6 +3,8 @@
       develop分支改动，将要去dev分支执行git rebase develop命令
 
       需要去develop分支执行cherry-pick命令
+
+      直接merge
   </div>
 </template>
 
