@@ -2,6 +2,7 @@
   <div class="hello">
       这是Header
       这是--am的改动
+      这里是push后的--amend的改动
   </div>
 </template>
 
