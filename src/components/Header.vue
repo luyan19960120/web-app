@@ -7,6 +7,8 @@
       rebase操作
 
       merge操作
+
+      cherry-pick操作
   </div>
 </template>
 
