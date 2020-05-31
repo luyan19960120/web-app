@@ -5,6 +5,8 @@
       需要去develop分支执行cherry-pick命令
 
       直接merge
+
+      rebase
   </div>
 </template>
 
